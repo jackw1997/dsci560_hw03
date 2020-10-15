@@ -1,4 +1,6 @@
-![avatar][base64str]
+<p align="center">
+    <img src="PettingZoo_Text.png" width="500px"/>
+</p>
 
 # Project Summary
 Homework3 at course DSCI560 in USC
