@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="mywonder.png" width="500px"/>
+    <img src="/mywonder.png" width="500px"/>
 </p>
 
 ## Project Summary
