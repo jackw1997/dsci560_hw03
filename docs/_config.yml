@@ -1,6 +1,2 @@
 theme: jekyll-theme-cayman
-name: MyWonder
-logo:
-    width: 165
-    height: 60
-    url: images/logo-header.png
+title: MyWonder
