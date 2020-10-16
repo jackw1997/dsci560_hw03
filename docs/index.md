@@ -14,34 +14,32 @@ MyWonder is a new platform for big data analytics and visualization. Our wish is
 
 **Inventory:** Test environment is not separated with the production environment, where the test environment is unnecessary for most of the users.
 
-### Markdown
+## Deliverables:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Understand Requirements of Client
 
-```markdown
-Syntax highlighted code block
+- Simplify Terminology and Contents Used in the User Interface
 
-# Header 1
-## Header 2
-### Header 3
+- Separate Test and Production Environment 
 
-- Bulleted
-- List
+- Add "Note" Function in Visualization
 
-1. Numbered
-2. List
+- Enable Quick Content Change
 
-**Bold** and _Italic_ and `Code` text
+- Create Visualization
 
-[Link](url) and ![Image](src)
-```
+- Create Powerpoint and Documentation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Milestone:
 
-### Jekyll Themes
+- Create Successful Client Review and Demos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jackw1997/dsci560_hw03/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Gantt Chart:
 
-### Support or Contact
+<p align="center">
+    <img src="waterfall.png" width="500px"/>
+</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p align="center">
+    <img src="agile.png" width="500px"/>
+</p>
