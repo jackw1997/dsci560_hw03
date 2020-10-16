@@ -37,9 +37,9 @@ MyWonder is a new platform for big data analytics and visualization. Our wish is
 ## Gantt Chart:
 
 <p align="center">
-    <img src="waterfall.png" width="500px"/>
+    <img src="waterfall.png" width="1000px"/>
 </p>
 
 <p align="center">
-    <img src="agile.png" width="500px"/>
+    <img src="agile.png" width="1000px"/>
 </p>
